@@ -1,2 +1,30 @@
 # RVX_Youtube1
-app name: Youtube
+
+latest: https://github.com/min09357/RVX_Youtube1/releases/latest
+
+app name: Youtube (original: YouTube)
+
+package name: app.rvx.android.youtube1
+
+You should install GmsCore(https://github.com/ReVanced/GmsCore/releases/latest) first.
+
+## Recommended (Optional)
+
+### Import RVX Settings
+
+1. Download .txt file in latest releases.
+
+2. Settings - RVX Settings - Miscellaneous(기타) - Import/Export settings(설정 가져오기/내보내기) - Import settings(설정 가져오기) - choose downloaded file
+
+3. You can use your own setting file.
+
+### Install with Optainium (strongly recommended)
+
+1. Install Obtainium (https://github.com/ImranR98/Obtainium/releases/latest/download/app-arm64-v8a-release.apk).
+
+2. Download setting file (https://github.com/min09357/RVX_Youtube1/releases/download/0/obtainium_settings.json).
+
+3. Import Obtainium settings with downloaded file.
+
+4. Install app in RVX clone category.
+
